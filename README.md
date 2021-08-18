@@ -1,6 +1,7 @@
 # Kameleon
 Kameleon purpose is to connect languages into one evironment,
 this is very usefull if you have many apps/scripts which you need to supervise and check their output
+![Main page](https://github.com/CreatorLuXury/Kameleon/blob/main/example.png)
 
 ## How to use
 Basically, You need to install a web server like Apache and PHP (minimum 7.3).
