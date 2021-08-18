@@ -7,7 +7,7 @@ Basically, You need to install a web server like Apache and PHP (minimum 7.3).
 
 ## Options
 
-Kameleon is very customizable, for now you can run java jar files, python scripts, php scripts and shell scripts.
+Kameleon is very customizable, for now you can run java jar files, python scripts, php scripts and shell scripts.</br>
 If you have a script add and customize it's options via plugin-list.json file.
 
  - plugin short name (spaces forbidden)
@@ -24,33 +24,33 @@ If you have a script add and customize it's options via plugin-list.json file.
 ```
  - file upload path (if needed)
  ```
-        "upload_path"
+"upload_path"
 ```
  - script parameters
  ```
-        "parameters"
+"parameters"
  ```
   - selectable menu options (as sscript parameters)
   ```
-        "select"
+"select"
   ```
   - programming language
   ```
-        "language": "python"
+"language"
   ```
   - status enable/disable plugin
   ```
-        "status"
+"status"
   ```
   - plugin description
   ```
-        "description"
+"description"
   ```
    - plugin image
    ```
-        "image"
+"image"
    ```
   - restrict upload file type to (extension with ".")
   ```
-        "upload"
+"upload"
   ```
