@@ -1,0 +1,26 @@
+{
+    "default": {
+        "name": "Default",
+        "fullname": "Default Name",
+        "path": "./plugins/default/main.py",
+        "upload_path": "./plugins/hello/upload/",
+        "parameters": ["param"],
+        "select": ["option1", "option2"],
+        "language": "python",
+        "status": "enabled",
+        "description": "This is default app description",
+        "image": "./plugins/default/logo.png",
+        "version": "1.0",
+        "upload": [".txt"]
+    },
+    "default2": {
+        "name": "Default2",
+        "fullname": "Default 2 Name",
+        "path": "./plugins/default/main.py",
+        "language": "python",
+        "status": "enabled",
+        "description": "This is default app description",
+        "image": "./plugins/default/logo.png",
+        "version": "1.0"
+    }
+}
