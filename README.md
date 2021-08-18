@@ -25,7 +25,7 @@ If you have a script add and customize it's options via plugin-list.json file.
  - file upload path (if needed)
  ```
         "upload_path"
-        ```
+```
  - script parameters
  ```
         "parameters"
