@@ -1,0 +1,5 @@
+*.py linguist-language=Python
+*.py linguist-language=Php
+js/bootstrap*.js linguist-vendored
+css/bootstrap*.css linguist-vendored
+quill/* linguist-vendored
